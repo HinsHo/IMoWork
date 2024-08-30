@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 import { TailcastLogo } from "../assets/logos/TailcastLogo";
-import logoImg from "../assets/images/IMoWork.png";
+import logoImg from "../assets/images/imowork.png";
 import { GithubIcon } from "../assets/icons/GithubIcon";
 
 const navbarLinks = [
