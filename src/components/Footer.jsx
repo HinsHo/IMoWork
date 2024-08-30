@@ -1,7 +1,7 @@
 import { FacebookIcon } from "../assets/icons/FacebookIcon";
 import { InstagramIcon } from "../assets/icons/InstagramIcon";
 import { TailcastLogo } from "../assets/logos/TailcastLogo";
-import logoImg from "../assets/images/IMoWork.png";
+import logoImg from "../assets/images/imowork.png";
 import { TwitterIcon } from "../assets/icons/TwitterIcon";
 
 const footerData = [
